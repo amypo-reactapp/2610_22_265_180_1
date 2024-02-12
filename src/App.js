@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Salman Faris MS 
+          question1
         </a>
       </header>
     </div>
